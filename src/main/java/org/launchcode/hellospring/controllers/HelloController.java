@@ -8,6 +8,7 @@
 //@Controller
 //public class HelloController {
 //
+
 //
 ////        @GetMapping //Tells springboot this should handle Get requests
 ////        @ResponseBody//returns a plain text response.. no template
@@ -26,7 +27,7 @@
 //    public String goodbye() {
 //        return "Goodbye, Spring!";
 //    }
-//}
+//}  my project
 package org.launchcode.hellospring.controllers;
 
         import org.springframework.stereotype.Controller;
